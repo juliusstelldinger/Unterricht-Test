@@ -2,6 +2,7 @@ import unittest
 
 from main import quadrizzle
 
+# Test-Class for Quadrizzle
 class TestQuadrizzle(unittest.TestCase):
 
 

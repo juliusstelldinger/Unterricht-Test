@@ -1,6 +1,6 @@
 name: github-to-ec2
 
-# should probably change branch heres
+# should probably change branch here
 on:
   push:
     branches:
